@@ -1,0 +1,6 @@
+server:
+  port: 9101
+---
+swagger: 
+  flag: true
+---
